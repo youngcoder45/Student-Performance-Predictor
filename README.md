@@ -45,7 +45,7 @@ Add screenshots after running the Streamlit app:
 
 ## Dataset
 
-Primary source: UCI Machine Learning Repository, Student Performance Dataset.
+Primary source: UCI Machine Learning Repository, Student Performance Datasets.
 
 The training code attempts to download:
 
