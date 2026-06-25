@@ -1,0 +1,8 @@
+Model,Accuracy,Precision,Recall,F1
+Logistic Regression,0.9114,0.9143,0.9846,0.9481
+Decision Tree Classifier,0.9114,0.9394,0.9538,0.9466
+Random Forest Classifier,0.9367,0.9412,0.9846,0.9624
+SVM,0.8861,0.8889,0.9846,0.9343
+Gradient Boosting Classifier,0.9494,0.9552,0.9846,0.9697
+XGBoost Classifier,0.9367,0.9412,0.9846,0.9624
+Tuned Random Forest Classifier,0.9241,0.9275,0.9846,0.9552

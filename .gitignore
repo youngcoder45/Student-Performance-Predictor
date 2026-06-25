@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.codex
+.agents
+
+# Local config
+.env
+.env.*
+
+# Data and generated artifacts
+data/raw/*.zip
+data/raw/*.csv
+data/processed/*.csv
+models/*.pkl
+models/*.json
+reports/figures/*.png
+reports/figures/*.html
+
+# Keep folders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep
+!screenshots/.gitkeep
+!reports/figures/.gitkeep
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
